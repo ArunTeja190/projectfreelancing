@@ -1,0 +1,38 @@
+{
+  "company": {
+    "name": "CogniAgent",
+    "tagline": "Innovating for Tomorrow",
+    "description": "We are a cutting-edge technology company focused on delivering innovative solutions for businesses."
+  },
+  "hero": {
+    "title": "Transform Your Business with Technology",
+    "subtitle": "Empowering businesses through digital innovation",
+    "ctaButton": "Get Started"
+  },
+  "features": [
+    {
+      "id": 1,
+      "title": "Smart Solutions",
+      "description": "Intelligent solutions powered by the latest technology",
+      "icon": "💡"
+    },
+    {
+      "id": 2,
+      "title": "24/7 Support",
+      "description": "Round-the-clock expert support for your business needs",
+      "icon": "🔧"
+    },
+    {
+      "id": 3,
+      "title": "Scalable Platform",
+      "description": "Grow your business with our scalable infrastructure",
+      "icon": "📈"
+    }
+  ],
+  "contact": {
+    "title": "Get in Touch",
+    "email": "contact@techstartup.com",
+    "phone": "+1 (555) 123-4567",
+    "address": "123 Innovation Street, Tech City, TC 12345"
+  }
+}
