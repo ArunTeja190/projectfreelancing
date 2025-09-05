@@ -14,7 +14,9 @@ interface FeaturesProps {
 const Features: FC<FeaturesProps> = ({ features }) => {
   return (
     <section className="features">
+      <h1>Features</h1>
       <div className="features-grid">
+        
         {features.map((feature) => (
           <div key={feature.id} className="feature-card">
             <div className="feature-icon">{feature.icon}</div>
