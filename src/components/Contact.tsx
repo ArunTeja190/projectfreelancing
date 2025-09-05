@@ -1,6 +1,7 @@
 import type { FC } from 'react';
 
 interface ContactProps {
+  title: string;
   email: string;
   phone: string;
   address: string;

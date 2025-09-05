@@ -72,20 +72,13 @@
   },
   "footer": {
     "products": [
-      { "title": "Document Intelligence", "link": "#document-intelligence" },
-      { "title": "Digital KYC and Onboarding", "link": "#digital-kyc" },
-      { "title": "Expense Management", "link": "#expense-management" },
-      { "title": "Form Builder", "link": "#form-builder" },
-      { "title": "Survey Builder", "link": "#survey-builder" },
-      { "title": "Chatbot Builder", "link": "#chatbot-builder" },
-      { "title": "Marketing Automation", "link": "#marketing-automation" },
+     
       { "title": "Omnichannel Communication", "link": "#omnichannel" },
       { "title": "Customer Data", "link": "#customer-data" },
       { "title": "Social Media Analytics", "link": "#social-media" }
     ],
     "services": [
-      { "title": "Digital Transformation", "link": "#digital-transformation" },
-      { "title": "Microsoft Dynamics", "link": "#microsoft-dynamics" },
+      
       { "title": "Intelligent Process Automation", "link": "#intelligent-process" },
       { "title": "Workforce and Workflow Automation", "link": "#workflow-automation" },
       { "title": "Business Performance Automation", "link": "#business-performance" }

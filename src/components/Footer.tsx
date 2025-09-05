@@ -11,13 +11,9 @@ interface Social {
   [key: string]: string;
 }
 
-type FooterSections = {
-  [K in string]: FooterSection;
+type FooterData = {
+  [K in string]: K extends 'social' ? Social : FooterSection;
 };
-
-interface FooterData extends FooterSections {
-  social?: Social;
-}
 
 interface FooterProps {
   companyName?: string;
